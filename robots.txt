@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://whitedesert-c7v5bn7j.manus.space/sitemap.xml
+
+# Block admin and private paths
+Disallow: /admin/
+Disallow: /api/
